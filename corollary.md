@@ -1,6 +1,6 @@
-¡Excelente! :raised_hands:
+Excelente! :raised_hands:
 
-Ya vimos cómo son los números, los booleanos y los strings de Python. También conocimos a la consola, una poderosa aliada que nos acompañará a lo largo de todo este recorrido. :handshake:
+Já vimos como são os números, os booleanos e as strings de Python. Também conhecemos o console, uma poderosa aliada que nos acompanhará no decorrer de todo este percurso. :handshake:
 
-Ahora que sabemos algunas operaciones básicas de Python ¡vamos a crear nuestros primeros programas! :muscle:
+Agora que já sabemos algumas operações básicas de Python, vamos criar nossos primeiros programas! :muscle:
 

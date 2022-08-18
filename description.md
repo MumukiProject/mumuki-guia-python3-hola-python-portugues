@@ -1,3 +1,3 @@
-En esta lección conoceremos algunos de los tipos de datos más comunes de Python :snake: , un lenguaje multipróposito muy usado en la actualidad. También conoceremos a la consola :desktop: , la herramienta que nos permitirá probar las operaciones que más utilizaremos a lo largo de todo el recorrido.
+Nesta lição vamos conhecer alguns dos tipos de dados mais comuns de Python :snake: , uma linguagem multipropósito muito usada atualmente. Também vamos conhecer o console :desktop: , a ferramenta que nos permitirá provar as operações que mais utilizaremos no decorrer de todo o percurso.
 
-¡Comencemos! :star_struck:
+Vamos começar! :star_struck:
