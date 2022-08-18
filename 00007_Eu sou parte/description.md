@@ -11,5 +11,5 @@ Quando trabalhamos com _strings_ também podemos saber se uma string contém out
 ```
 >
 >``` python
-ム"história" in "pré-historia"
+ム"história" in "pré-história"
 ```
