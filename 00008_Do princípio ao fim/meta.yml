@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: 'False'
-name: De principio a fin
+name: Do princípio ao fim
