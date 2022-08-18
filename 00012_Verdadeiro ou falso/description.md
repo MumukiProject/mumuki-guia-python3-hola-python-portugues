@@ -3,7 +3,7 @@ Outro famoso operador lógico é o `or` que serve para realizar disjunções ló
 > Faça as seguintes tentativas no console:
 >
 >``` python
-ムstr.lower("HOLA") == "olá" or str.lower("adeus") == "adeus"
+ムstr.lower("OLÁ") == "olá" or str.lower("adeus") == "adeus"
 ```
 >
 >``` python
