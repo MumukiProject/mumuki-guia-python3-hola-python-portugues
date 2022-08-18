@@ -19,7 +19,7 @@ choices:
   value: '`4 + 4` vale `"44"`'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`"on" + "ce"` vale `"once"`'
+  value: '`"on" + "ze"` vale `"onze"`'
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`True and False` vale `False`"
@@ -30,4 +30,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`5 >= 6` vale `False`"
   checked: true
-name: Un poco de cada tipo
+name: Um pouco de cada tipo
