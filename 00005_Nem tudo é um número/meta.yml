@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
   regexp: 8[ ]*!=[ ]*8
-name: No todo es un número
+name: Nem tudo é um número
