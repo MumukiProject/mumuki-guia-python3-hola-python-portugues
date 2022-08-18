@@ -1,0 +1,1 @@
+Quantas coisas podemos fazer com as strings! E isso não é tudo, mas por enquanto bastam essas operações. :sweat_smile:
