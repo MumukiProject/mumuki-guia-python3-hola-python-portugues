@@ -9,7 +9,7 @@ Por outro lado temos as calmas letras minúsculas. Em Python podemos passar um t
 ```
 >
 >``` python
-ムstr.lower('BAIXE O VOLUME')
+ムstr.lower('ABAIXE O VOLUME')
 ```
 >
 >``` python
@@ -21,6 +21,6 @@ Por outro lado temos as calmas letras minúsculas. Em Python podemos passar um t
 ```
 >
 >``` python
-ムstr.upper('NECESSITO MAIÚSCULAS MAIORES')
+ムstr.upper('PRECISO DE MAIÚSCULAS MAIORES')
 ```
 > Você imagina o que vai acontecer em cada caso?
