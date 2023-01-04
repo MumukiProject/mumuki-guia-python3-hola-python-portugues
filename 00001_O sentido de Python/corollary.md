@@ -1,2 +1,1 @@
-A linguagem de programação Cobra existe, mas ela é bem posterior a Python. Por outro lado, não sabemos se houve uma picada de serpente :stuck_out_tongue:, mas o motivo oficialmente reconhecido é o show de Monty Python. :joy:
-
+A linguagem de programação Cobra existe, mas ela é bem posterior à Python. Por outro lado, não sabemos se houve uma picada de serpente :stuck_out_tongue:, mas o motivo oficialmente reconhecido é o show de Monty Python. :joy:
