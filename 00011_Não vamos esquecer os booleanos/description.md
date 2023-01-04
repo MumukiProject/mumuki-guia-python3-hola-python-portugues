@@ -1,4 +1,4 @@
-Depois de testar operações de números e de strings, será que é possível operar os booleanos? :thought_balloon:
+Depois de testarmos operações de números e de strings, será que é possível operarmos os booleanos? :thought_balloon:
 
 Sim! Uma das operações mais comuns é a conjunção lógica, "E lógico" ou simplesmente `and`. :relieved:
 
