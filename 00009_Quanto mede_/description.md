@@ -1,4 +1,4 @@
-Muitas vezes será interessante saber o tamanho de uma string, ou em outras palavras, quantos caracteres tem :straight_ruler: . Para isso vai nos ajudar `len`. :star_struck:
+Muitas vezes será interessante saber o tamanho de uma string, ou em outras palavras, quantos caracteres ela tem :straight_ruler: . Para isso `len` irá nos ajudar. :star_struck:
 
 > Vamos ver como ele funciona no console testando:
 >
