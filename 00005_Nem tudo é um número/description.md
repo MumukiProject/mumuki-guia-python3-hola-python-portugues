@@ -1,4 +1,4 @@
-Mas os operadores não servem apenas para obter números a partir de outros, também podemos compará-los! :muscle:
+Mas os operadores não servem apenas para obter números a partir de outros, também podemos compará-los entre si! :muscle:
 
 > Tente o seguinte no console:
 >
