@@ -1,4 +1,4 @@
-Como acabamos de ver em Python podemos multiplicar :heavy_multiplication_x: e dividir :heavy_division_sign:, e como já imagina, também somar   :heavy_plus_sign:  y diminuir , :heavy_minus_sign:. Na programação esses objetos estranhos são chamados _operadores_ e são escritos com pequenas diferenças:
+Como acabamos de ver, em Python podemos multiplicar :heavy_multiplication_x: e dividir :heavy_division_sign:, e como já imagina, também somar :heavy_plus_sign: e subtrair :heavy_minus_sign:. Na programação esses sinais estranhos são chamados _operadores_ e são escritos com pequenas diferenças:
 
 |Operação     	| Operador  | Exemplo  |
 |-------------     |----------    |-------  |
